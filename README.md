@@ -1,0 +1,2 @@
+# aluracar
+Treinando Ionic
